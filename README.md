@@ -42,4 +42,4 @@ External Client (WireGuard App) → 10.10.10.0/24 (WG Tunnel) → 10.10.10.1 (Se
 - WireGuard client app on the external device
 
 ## 📖 Full Setup Guide (in German)
-See [Dokumentation](https://app.notion.com/p/VPN-Tunnel-anlegen-2f2c8d95942180b58316c4806bfadde7?source=copy_link)
+Hier die [Dokumentation](https://app.notion.com/p/VPN-Tunnel-anlegen-2f2c8d95942180b58316c4806bfadde7?source=copy_link)
